@@ -7,9 +7,9 @@ function WhatAI() {
         <div className="ai__whatAi section__margin" id='whatAi'>
           <div className="ai__whatAi-feature">
             <Feature title="what is Abbey's - GPT"
-              text="Whole front do of plate heard oh ought. 
-                    His defective nor convinced residence more and
-                    more text to see what happens welcome " />
+              text=" this new amazing AI could do really mind blowing  stuffs for you,
+               it could cook you a meal, drive your car for you, notice if there are any faults
+               in a device based on given data " />
           </div>
           <div className="ai__whatAi-heading">
             <h1 className="gradient__text">
@@ -21,9 +21,9 @@ function WhatAI() {
               <Feature title='Chatbots'
                 text='hey hey hey you know what lets checkout'/>
               <Feature title={'knowledge'}
-                text='cahnge you later'/>
+                text='knowledge is static power, application of knowledge is the real power in action'/>
               <Feature title='Education'
-                text='you want to learn more on this scetion'/>
+                text='you want to learn more on this scetion, keep scrolling'/>
           </div>
         </div>
     )

@@ -11,9 +11,13 @@ function Possibility() {
           <div className='ai__possibility-content'>
             <h4> Don't hesistate registernow and get started</h4>
             <h1 className="gradient__text">The possibilities are <br /> beyond your imagination</h1>
-            <p> Yet bed any for travelling assistance indulgence unpleasing. 
-                Not thoughts all exercise blessing. Indulgence way everything joy alteration 
-                boisterous the attachment. Party we years to order allow asked of.</p>
+            <p> 
+              imagine having an AI assistant that could be a great PA,
+               carry out tasks for you, cook you delicious meals,
+              do house chores for you, drive you and make repairs for your vehicles,
+               and many other activities that could stress you
+
+            </p>
             <h4>Sign up now and get <em>Early Access</em></h4>
           </div> 
         </div>
