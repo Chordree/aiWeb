@@ -54,6 +54,3 @@ function Navbar() {
   
   export default Navbar
 
-// make a menu componet later on 
-// check out svg link below later on
-//http://www.w3.org/2000/svg

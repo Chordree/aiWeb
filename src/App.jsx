@@ -38,21 +38,4 @@ function App() {
 
 export default App
 
-// dependencies
-//npm install react-icons
 
-// use the shortcort import method
-
-
-// just kept the below for quick creation of files
-// function App() {
-  
-
-//   return (
-//       <div>
-//         <h1>welcome to this app</h1>
-//       </div>
-//   )
-// }
-
-// export default App
